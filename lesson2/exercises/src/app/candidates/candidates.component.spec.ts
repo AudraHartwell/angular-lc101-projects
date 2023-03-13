@@ -22,4 +22,8 @@ describe('CandidatesComponent', () => {
   it('should create', () => {
     expect(component).toBeTruthy();
   });
+
+  addToCrew(person: object){
+
+  }
 });
